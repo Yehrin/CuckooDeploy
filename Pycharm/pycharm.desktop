@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Pycharm	% 桌面快捷方式的名称
+Icon=/home/software/pycharm-2018.3/bin/pycharm.png
+Exec=/home/software/pycharm-2018.3/bin/pycharm.sh
+MimeType=application/x-py;
+Name[en_US]=pycharm
